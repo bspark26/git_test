@@ -1,2 +1,3 @@
 I am Learning how to use Git
 This is pretty cool.
+Trying to use git without instructiom!
